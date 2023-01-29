@@ -38,3 +38,7 @@ Tipo como cadena de 20 caracteres.
 13) En la tabla Coche, agrega la restricción de que el campo Tipo no pueda ser nulo.
 
 14) Muestra la definición de las tablas Persona y Coche.
+
+
+
+[Archivo en MySQL](Ejercicio_Personas_Coches.sql)
